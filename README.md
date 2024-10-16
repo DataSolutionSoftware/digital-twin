@@ -13,4 +13,6 @@ CREATE TABLE readings (
 First open two terminals. Then CD into frontend and backend First you need to start the service by running : 
 
 1. node server2.js  for Backend 
-2. Then start the react app by running : 
+2. Then start the react app by running :
+
+3. Repo : https://github.com/kukuu/digital-twin
