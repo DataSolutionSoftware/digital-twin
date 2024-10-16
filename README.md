@@ -16,3 +16,8 @@ First open two terminals. Then CD into frontend and backend First you need to st
 2. Then start the react app by running :
 
 3. Repo : https://github.com/kukuu/digital-twin
+
+
+## AZURE Digital Twin 
+
+https://github.com/Azure-Samples/digital-twins-explorer/tree/main/client
