@@ -17,6 +17,7 @@ First open two terminals. Then CD into frontend and backend First you need to st
 
 3. Repo : https://github.com/kukuu/digital-twin
 
+4.  Live V2 https://digital-twin-neon.vercel.app/
 
 ## AZURE Digital Twin 
 
