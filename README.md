@@ -21,6 +21,8 @@ First open two terminals. Then CD into frontend and backend First you need to st
 
 V1 https://digital-twin-neon.vercel.app/
 
+V2 https://github.com/kukuu/digital-twin-v2
+
 ## AZURE Digital Twin 
 
 https://github.com/Azure-Samples/digital-twins-explorer/tree/main/client
