@@ -19,8 +19,11 @@ First open two terminals. Then CD into frontend and backend First you need to st
 
 ## Production 
 
-V1 https://digital-twin-neon.vercel.app/
+V1 - https://digital-twin-neon.vercel.app/
 
+V2 - https://digital-twin-v2-chi.vercel.app/
+
+## Code
 V2 https://github.com/kukuu/digital-twin-v2
 
 ## AZURE Digital Twin 
