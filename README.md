@@ -1,6 +1,6 @@
 # Digital Twin
 
-Innovation and Vision
+Innovation and Vision 
 
 Manually Create the Table: Go to your Supabase project, navigate to SQL Editor, and run the following SQL to create the readings table:
 
